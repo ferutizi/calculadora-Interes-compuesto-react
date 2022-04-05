@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a5b0e245.css","mappings":"AAAA,gBAEE,qBAAsB,CADtB,WAEF,CAEA,OACE,kBACF,CAEA,KACE,QACF","sources":["index.css"],"sourcesContent":["html, body, #root {\n  height: 100%;\n  box-sizing: border-box;\n}\n\nhtml * {\n  box-sizing: inherit;\n}\n\nbody {\n  margin: 0;\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculadora-Interes-compuesto-react/static/css/main.a5b0e245.css",
+    "main.js": "/calculadora-Interes-compuesto-react/static/js/main.37230fa7.js",
+    "static/js/787.5f8e205d.chunk.js": "/calculadora-Interes-compuesto-react/static/js/787.5f8e205d.chunk.js",
+    "index.html": "/calculadora-Interes-compuesto-react/index.html",
+    "main.a5b0e245.css.map": "/calculadora-Interes-compuesto-react/static/css/main.a5b0e245.css.map",
+    "main.37230fa7.js.map": "/calculadora-Interes-compuesto-react/static/js/main.37230fa7.js.map",
+    "787.5f8e205d.chunk.js.map": "/calculadora-Interes-compuesto-react/static/js/787.5f8e205d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b0e245.css",
+    "static/js/main.37230fa7.js"
+  ]
+}
